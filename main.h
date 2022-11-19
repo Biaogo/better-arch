@@ -1,10 +1,11 @@
-#include <unistd.h>
-#include <stdlib.h>
-#include "stdio.h"
-#include "cjson/cJSON.h"
-#include "getopt.h"
+#ifndef UNTITLED_MAIN_H
+#define UNTITLED_MAIN_H
 
-#ifndef UNTITLED__MAIN_H_
-#define UNTITLED__MAIN_H_
+#endif //UNTITLED_MAIN_H
+void get_option(int argc, char **argv);
 
-#endif //UNTITLED__MAIN_H_
+char *read_file(char *filename);
+
+char *install(char **argv);
+
+char *uninstall(char **argv);

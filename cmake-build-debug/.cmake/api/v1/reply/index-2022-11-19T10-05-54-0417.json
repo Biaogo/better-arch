@@ -8,10 +8,10 @@
 		},
 		"paths" : 
 		{
-			"cmake" : "/home/biaogo/tools/Jb/clion-2022.2.4/bin/cmake/linux/bin/cmake",
-			"cpack" : "/home/biaogo/tools/Jb/clion-2022.2.4/bin/cmake/linux/bin/cpack",
-			"ctest" : "/home/biaogo/tools/Jb/clion-2022.2.4/bin/cmake/linux/bin/ctest",
-			"root" : "/home/biaogo/tools/Jb/clion-2022.2.4/bin/cmake/linux/share/cmake-3.23"
+			"cmake" : "/home/biaogo/tools/JB/clion-2022.2.4/bin/cmake/linux/bin/cmake",
+			"cpack" : "/home/biaogo/tools/JB/clion-2022.2.4/bin/cmake/linux/bin/cpack",
+			"ctest" : "/home/biaogo/tools/JB/clion-2022.2.4/bin/cmake/linux/bin/ctest",
+			"root" : "/home/biaogo/tools/JB/clion-2022.2.4/bin/cmake/linux/share/cmake-3.23"
 		},
 		"version" : 
 		{
@@ -26,7 +26,7 @@
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-4f7bf77a683fbcb8b3ea.json",
+			"jsonFile" : "codemodel-v2-0fc1d28816717e557df6.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-c5d76633122f051f1b0b.json",
+			"jsonFile" : "cache-v2-c6828e9ea722980aa8db.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-29bea0bf8b9a8285baa4.json",
+			"jsonFile" : "cmakeFiles-v1-7e384e6319b5961025a2.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-c5d76633122f051f1b0b.json",
+			"jsonFile" : "cache-v2-c6828e9ea722980aa8db.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-29bea0bf8b9a8285baa4.json",
+			"jsonFile" : "cmakeFiles-v1-7e384e6319b5961025a2.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -86,7 +86,7 @@
 		},
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-4f7bf77a683fbcb8b3ea.json",
+			"jsonFile" : "codemodel-v2-0fc1d28816717e557df6.json",
 			"kind" : "codemodel",
 			"version" : 
 			{

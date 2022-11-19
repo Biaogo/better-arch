@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "untitled"
+			"path" : "bta"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +38,7 @@
 					"fragment" : "-g"
 				},
 				{
-					"fragment" : "-std=gnu99"
+					"fragment" : "-std=gnu2x"
 				}
 			],
 			"language" : "C",
@@ -48,7 +48,7 @@
 				[
 					1
 				],
-				"standard" : "99"
+				"standard" : "23"
 			},
 			"sourceIndexes" : 
 			[
@@ -57,7 +57,7 @@
 			]
 		}
 	],
-	"id" : "untitled::@6890427a1f51a3e7e1df",
+	"id" : "bta::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -73,8 +73,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "untitled",
-	"nameOnDisk" : "untitled",
+	"name" : "bta",
+	"nameOnDisk" : "bta",
 	"paths" : 
 	{
 		"build" : ".",
@@ -94,9 +94,7 @@
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				2,
-				3,
-				4
+				2
 			]
 		}
 	],
@@ -116,17 +114,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "install.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
 			"path" : "main.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "usage.h",
 			"sourceGroupIndex" : 1
 		}
 	],
