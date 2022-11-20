@@ -9,3 +9,9 @@ char *read_file(char *filename);
 char *install(char **argv);
 
 char *uninstall(char **argv);
+
+char *gitaclone(char **argv);
+
+char *gitdel(char **argv);
+
+static void usage();
