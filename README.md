@@ -3,8 +3,12 @@
 bta is a tool that can quickly configure files.
 - Install packages.
 - Remove packages.
+<<<<<<< HEAD
 - Get the git source code in the specified directory.
 - Remove git source
+=======
+- ~~Get the git source code in the specified directory.~~
+>>>>>>> 067a813a8f0b79044498b58db44a9c1509ca523b
 - coming soon...
 
 ## Running
@@ -18,6 +22,7 @@ bta -i red-team-tools.json
 ```sh
 bta -r red-team-tools.json
 ```
+<<<<<<< HEAD
 
 ---
 
@@ -32,3 +37,5 @@ bta -r red-team-tools.json
 - [Network Analyst](./res/json/networktools.json)
 - [Red Teamer](./res/json/redtools.json)
 - [Web Pentester](./res/json/webtools.json)
+=======
+>>>>>>> 067a813a8f0b79044498b58db44a9c1509ca523b
