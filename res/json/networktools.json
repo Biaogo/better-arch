@@ -1,1 +1,12 @@
-{"pkgs":["blackarch-ids","blackarch-networking","blackarch-proxy","blackarch-radio","blackarch-sniffer","blackarch-spoof","blackarch-tunnel","blackarch-wireless"]}
+{
+  "pkgs": [
+    "blackarch-ids",
+    "blackarch-networking",
+    "blackarch-proxy",
+    "blackarch-radio",
+    "blackarch-sniffer",
+    "blackarch-spoof",
+    "blackarch-tunnel",
+    "blackarch-wireless"
+  ]
+}

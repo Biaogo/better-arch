@@ -1,1 +1,6 @@
-{"pkgs":["blackarch-mobile","blackarch-reversing"]}
+{
+  "pkgs": [
+    "blackarch-mobile",
+    "blackarch-reversing"
+  ]
+}

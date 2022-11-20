@@ -1,3 +1,0 @@
-/home/biaogo/CLionProjects/bta/cmake-build-debug/CMakeFiles/bta.dir
-/home/biaogo/CLionProjects/bta/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/biaogo/CLionProjects/bta/cmake-build-debug/CMakeFiles/rebuild_cache.dir

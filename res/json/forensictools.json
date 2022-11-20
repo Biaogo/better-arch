@@ -1,1 +1,5 @@
-{"pkgs":["blackarch-forensic"]}
+{
+  "pkgs": [
+    "blackarch-forensic"
+  ]
+}

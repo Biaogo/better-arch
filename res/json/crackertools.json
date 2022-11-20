@@ -1,2 +1,6 @@
 {
-  "pkgs": ["blackarch-cracker","blackarch-crypto"]}
+  "pkgs": [
+    "blackarch-cracker",
+    "blackarch-crypto"
+  ]
+}

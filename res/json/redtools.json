@@ -1,1 +1,17 @@
-{"pkgs":["blackarch-cracker","blackarch-database","blackarch-debugger","blackarch-decompiler","blackarch-exploitation","blackarch-fuzzer","blackarch-networking","blackarch-recon","blackarch-scanner","blackarch-sniffer","blackarch-spoof","blackarch-webapp","blackarch-windows"]}
+{
+  "pkgs": [
+    "blackarch-cracker",
+    "blackarch-database",
+    "blackarch-debugger",
+    "blackarch-decompiler",
+    "blackarch-exploitation",
+    "blackarch-fuzzer",
+    "blackarch-networking",
+    "blackarch-recon",
+    "blackarch-scanner",
+    "blackarch-sniffer",
+    "blackarch-spoof",
+    "blackarch-webapp",
+    "blackarch-windows"
+  ]
+}

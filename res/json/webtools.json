@@ -1,1 +1,6 @@
-{"pkgs":["blackarch-webapp","blackarch-fuzzer"]}
+{
+  "pkgs": [
+    "blackarch-webapp",
+    "blackarch-fuzzer"
+  ]
+}
